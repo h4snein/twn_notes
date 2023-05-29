@@ -1,5 +1,5 @@
 ╔══════════════════════════════════════╗
-║             Topic: Topic Name        ║
+║             Topic: [Topic Name]             ║
 ╚══════════════════════════════════════╝
 
 🚀 Overview
@@ -51,4 +51,3 @@ Track any milestones or specific achievements related to the topic.
 Outline the next steps you plan to take for this topic.
 Identify additional resources or areas of study that you want to explore.
 Set goals for further deepening your understanding or applying the knowledge gained from the topic.
-
